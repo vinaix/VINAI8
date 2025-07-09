@@ -6,8 +6,8 @@
   I’ve got ADHD — obsession is my superpower, and I build like it.
 </p>
 
-<p align="center">
-  <a href="https://github.com/VinayCharyVelpula">GitHub</a> • 
-  <a href="https://www.kaggle.com/vinayvelpula">Kaggle</a> • 
-  <a href="https://linkedin.com/in/vinayvelpula">LinkedIn</a>
+<p align="center"> 
+  <a href="https://www.kaggle.com/velpulavinai">Kaggle</a> • 
+  <a href="https://www.linkedin.com/in/vinayvelpula03/">LinkedIn</a> • 
+  <a href="https://www.instagram.com/velpulavinayy/">Instagram</a>
 </p>
