@@ -7,6 +7,7 @@
 </p>
 
 <p align="center"> 
+  <a href="https://vinaix.space">Website</a> • 
   <a href="https://www.kaggle.com/velpulavinai">Kaggle</a> • 
   <a href="https://www.linkedin.com/in/vinayvelpula03/">LinkedIn</a> • 
   <a href="https://www.instagram.com/velpulavinayy/">Instagram</a>
